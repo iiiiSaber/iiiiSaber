@@ -1,16 +1,13 @@
-
-## Welcome!
+# Welcome!
 
 He’s a master’s student at Xidian University,
 exploring AI agents, systems, and algorithms.
 
 Outside of code, he enjoys mathematics, literature, and anime.
 
-See more about me: [my blog](https://isaber.top).
+**Learn more about me: [my blog(WIP)](https://isaber.top).**
 
-## Inspiration
-A snippet of code you may be interested in:
-
+### Inspiration
 ```cpp
 using ll = long long;
 constexpr ll P = 998244353;
